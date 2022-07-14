@@ -8,6 +8,3 @@ def reverseStringByToPointer(s: List[str]) -> None:
         left += 1
         right -= 1
 
-
-def reverseStringByPythonicWay(s: List[str]) -> None:
-    s.reverse()
